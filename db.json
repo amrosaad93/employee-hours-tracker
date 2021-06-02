@@ -1,0 +1,57 @@
+{
+  "records": [
+    {
+      "day": "Monday",
+      "expHours": 8,
+      "arrivalTime": "8:00",
+      "departureTime": "17:00",
+      "workHours": "9 hours",
+      "id": 1
+    },
+    {
+      "day": "Tuesday",
+      "expHours": 8,
+      "arrivalTime": "7:30",
+      "departureTime": "18:00",
+      "workHours": "10 hours and 30 minutes",
+
+      "id": 2
+    },
+    {
+      "day": "Wednesday",
+      "expHours": 8,
+      "arrivalTime": "8:30",
+      "departureTime": "18:00",
+      "workHours": "9 hours and 30 minutes",
+
+      "id": 3
+    },
+    {
+      "day": "Wednesday",
+      "expHours": 8,
+      "arrivalTime": "8:30",
+      "departureTime": "18:00",
+      "workHours": "9 hours and 30 minutes",
+
+      "id": 4
+    },
+    {
+      "day": "Wednesday",
+      "expHours": 8,
+      "arrivalTime": "8:30",
+      "departureTime": "18:00",
+      "workHours": "9 hours and 30 minutes",
+
+      "id": 5
+    },
+    {
+      "day": "Wednesday",
+      "expHours": 8,
+      "arrivalTime": "8:30",
+      "departureTime": "18:00",
+      "workHours": "9 hours and 30 minutes",
+
+      "id": 6
+    }
+  ]
+}
